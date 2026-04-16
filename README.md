@@ -1,7 +1,7 @@
 # 📊 Meta Ad Performance Analysis  
 
 ## 🔗 Project Links  
-- 🔗 Link to Interactive Dashboard  
+- 🔗 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzkzMmM5OTQtOWIxNi00OGM3LWE4MzItNzRlZTFiNDYyNmY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - 🔗 Link to LinkedIn Post  
 
 ## 📝 Problem Statement  
