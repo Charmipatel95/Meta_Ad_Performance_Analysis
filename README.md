@@ -2,7 +2,7 @@
 
 ## 🔗 Project Links  
 - 🔗 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzkzMmM5OTQtOWIxNi00OGM3LWE4MzItNzRlZTFiNDYyNmY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- 🔗 Link to LinkedIn Post  
+- 🔗 Link to [LinkedIn Post](https://www.linkedin.com/posts/charmi-patel-771815242_powerbi-dataanalytics-marketinganalytics-activity-7450572214657085441-cSKY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxG9wUBbNzooiZ3O29LUoPwn-wD8seWpN0)
 
 ## 📝 Problem Statement  
 
